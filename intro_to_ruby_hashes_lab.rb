@@ -3,7 +3,11 @@ new_hash = {}
 end
 
 def actor
+<<<<<<< HEAD
   actor ={:name =>"Dwayne The Rock Johnson"}
+=======
+  actor ={:name => "value"}
+>>>>>>> 300a413e26e16fd9fe5753c50a28988a613d6764
 
 end
 
